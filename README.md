@@ -1,4 +1,7 @@
 # dsc2020-finalproject-be
 Projek DSC Backend
 
-<p>Creating an API to track covid-19 data in Indonesia using node.js and express</p>
+Creating an API to track covid-19 data in Indonesia using node.js and express
+
+
+To Run the program you need to install the mode nodules by running `npm install --y` on your terminal
